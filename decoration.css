@@ -1,0 +1,111 @@
+.cara{
+    font-style: italic;
+}
+.navbar{
+gap: 5%;
+display: flex;
+}
+.sentence{
+font-size: xx-large;
+    font-style: oblique;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.bold{ 
+margin-left: 30%;
+margin-top: -25%;
+}
+body{
+    padding: 200px 200px ;
+}
+.line{
+    gap: 5%;
+    display: flex;
+}
+.video{
+    font-size: larger;
+}
+.numbers{
+    display: flex;
+    gap: 5%;
+    font-size: xx-large;
+}
+.statement{
+    display: flex;
+    gap: 5%;
+    color: grey;
+}
+.one{
+    font-size: xx-large;
+    font-style: normal;
+}
+.new{
+    color: red;
+}
+.vases{
+    display: flex;
+    gap: 5%;
+}
+.ceramic{
+    height: 80%;
+}
+.floral{
+    width: 40%; 
+    height: 40%;
+}
+.flo{
+ height: 50%;
+
+
+}
+.wer{
+height: 50%;
+    margin-left: 30%;
+}
+.large{
+    height: 40%;
+}
+.name{
+    margin-left: 30%;
+}
+.space{
+    text-align: center;
+}
+.first{
+    display: flex;
+    margin-right: 5%;
+    gap: 25%;
+}
+.home{
+    font-size: xx-large;
+    font-style: oblique;
+}
+.shop{
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+}
+.ford{
+    margin-left: 50%;
+    margin-top: -27%;
+}
+.offers{
+    display: flex;
+    gap: 20%;
+}
+.testimonial{
+    display: flex;
+    gap: 5%;
+}
+.about{
+    display: flex;
+    gap: 20%;
+}
+.rights{
+    display: flex;
+    gap: 50%;
+}
